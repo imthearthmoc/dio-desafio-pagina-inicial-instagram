@@ -1,2 +1,2 @@
-# Dio Desafio Pagina Inicial do Instagram
+# Desafio Dio
 ## Recriando a página inicial do Instagram.
